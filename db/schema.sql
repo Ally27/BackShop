@@ -4,5 +4,5 @@ DROP DATABASE IF EXISTS BackShop_db;
 -- CREATE DATABASE
 CREATE DATABASE BackShop_db;
 
-USE BackShop_db;
+
 
