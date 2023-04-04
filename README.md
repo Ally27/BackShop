@@ -1,10 +1,9 @@
 # BackShop
 
-<img src="" width="280">
 
 ## Description
 
-E-commerce Back End
+E-commerce Back End 
 
 ## Table of Contents
 
@@ -30,7 +29,11 @@ After proper installation, use node server.js within the command line and make s
 
 
 ## Walkthrough Video
+[Link](https://drive.google.com/file/d/1WzcPbo2Ymbf2IOtoYW-rb1pC0oiA1PsE/view)
 
+<img src="./assets/images/insom.PNG" width="280">
+<img src="./assets/images/insom2.PNG" width="280">
+<img src="./assets/images/insom3.PNG" width="280">
 
 ## Questions
 
